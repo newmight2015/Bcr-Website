@@ -1,0 +1,7 @@
+[18-Jan-2015 05:58:15 America/Chicago] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in /home/bitcredi/public_html/index.php on line 8
+[18-Jan-2015 05:58:15 America/Chicago] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bitcredi/public_html/index.php on line 8
+[18-Jan-2015 05:58:44 America/Chicago] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in /home/bitcredi/public_html/index.php on line 8
+[18-Jan-2015 05:58:44 America/Chicago] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bitcredi/public_html/index.php on line 8
+[18-Jan-2015 05:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/bitcredi/public_html/includes/header.php on line 3
+[18-Jan-2015 06:00:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/bitcredi/public_html/includes/header.php on line 3
+[18-Jan-2015 06:04:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/bitcredi/public_html/includes/header.php on line 3

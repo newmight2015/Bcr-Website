@@ -1,0 +1,17 @@
+/* Links */
+a, a:visited { color: rgb(218,165,32); font-weight: 400; text-decoration: none; }
+a:hover { color: #999; }
+
+.og-grid li a { color: rgb(218,165,32); }
+
+.button { border: 1px solid rgb(218,165,32); }
+.button:hover { border: 1px solid rgb(218,165,32); }
+
+.desktop.navigation .nav-content a:hover, .desktop.navigation .nav-content a.active, .post-title a:hover
+{ color: #00CED1!important; }
+
+.tabs ul li.active a {border-top: 2px solid #FFCC00;}
+
+/* Content */
+.parallax.colored { background-color: #FFCC00; }
+.list-dot { background: #FFCC00; }
